@@ -7,9 +7,9 @@
 I am a computer engineering student, currently almost finishing my degree. I am expanding my knowledge in front and back end development, and I am currently working as a front end software developer at a small company that creates inventory systems. I love to build new things, learn, and be productive.
 
 - I’m currently learning ...
-  - Vue.js
-  - PHP
-  - Laravel
+  - flutter/dart
+  - react
+  - Springboot
 
 - I’m looking forward to collaborate on open source projects.
 
