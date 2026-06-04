@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/Iv1n4tecOcsAAAAi/raccoon-wave.gif" width="30px">&nbsp;***About me***
 
-I'm a Full-Stack Developer and CS student (coursework completed) based in Guatemala. I currently work at CiberVlac / Softcontext, where I focus on building scalable systems, modern architectures, and clean interfaces. I enjoy transforming complex requirements into efficient, production-ready solutions.
+I'm a CS student (coursework completed) based in Guatemala. I'm currently working as a Full-Stack Developer building scalable systems, and I am open to new career opportunities. I enjoy transforming complex requirements into efficient, production-ready solutions.
 
 - 🔭 I’m currently building multi-tenant architectures and custom IT solutions.
 - 💻 Currently 100% focused on my main stack: **Java, Spring Boot, React, and MongoDB**.
