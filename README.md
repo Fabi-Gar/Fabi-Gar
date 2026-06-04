@@ -1,57 +1,46 @@
 <h1 align="center"><b>Hi, I'm Fabian Garcia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <img align="right" width=300px alt="" src="https://c.tenor.com/WHOwHxdVSQIAAAAC/tenor.gif" />
 
 <img src="https://media.tenor.com/Iv1n4tecOcsAAAAi/raccoon-wave.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently almost finishing my degree. I am expanding my knowledge in front and back end development, and I am currently working as a front end software developer at a small company that creates inventory systems. I love to build new things, learn, and be productive.
+I'm a Full-Stack Developer and CS student (coursework completed) based in Guatemala. I currently work at CiberVlac / Softcontext, where I focus on building scalable systems, modern architectures, and clean interfaces. I enjoy transforming complex requirements into efficient, production-ready solutions.
 
-- I’m currently learning ...
-  - flutter/dart
-  - react
-  - Springboot
-
-- I’m looking forward to collaborate on open source projects.
-
-- Outside tech, 💜I love streaming on Twitch, 🎮 playing video games and 🎵 listening to music.
-
+- 🔭 I’m currently building multi-tenant architectures and custom IT solutions.
+- 💻 Currently 100% focused on my main stack: **Java, Spring Boot, React, and MongoDB**.
+- ⚡ Outside tech: I'm passionate about Enduro and Downhill (DH) mountain biking, playing football, and listening to music.
 - 📫 Reach out to me at: <a href="mailto:fabian.garcia.ac@gmail.com">fabian.garcia.ac@gmail.com</a>
 
-## My Skills
+## 🛠️ My Skills
 
-<h4> Languages </h4>
+<h4> Main Stack </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Other Technologies & Tools </h4>
 <span>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
 
-## Check out my Social Media
+## 🌐 Connect with me
 
-<a href="https://www.tiktok.com/@thebananach" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+<a href="https://www.linkedin.com/in/fabian-andre-garcia-mendez-b1639b214/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.twitch.tv/thebananach" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.instagram.com/fabi._.gar/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<a href="https://garmen.cloud" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
-<h2>Github stats:</h2> 
+<h2>📊 Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Fabi-Gar&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Fabi-Gar)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Fabi-Gar&theme=material-palenight)](https://github.com/Fabi-Gar)
